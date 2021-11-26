@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DialogsMarket</string>
+
+    <string name="title_dialog_first">Fire Missile</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+
+    <string-array name="games">
+        <item>IGI</item>
+        <item>COD</item>
+        <item>NFS</item>
+        <item>StrongHold</item>
+    </string-array>
+
+    <string-array name="cars">
+        <item>Lamborghini</item>
+        <item>Buggati</item>
+        <item>Farrari</item>
+        <item>Honda</item>
+        <item>Toyota</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Both</item>
+        <item>I don\'t know</item>
+    </string-array>
+</resources>
